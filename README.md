@@ -6,3 +6,8 @@
 6. Jalankan program "php -S localhost:8080"
 7. Buka browser dan akses "http://localhost:8080"
 8. Selamat menggunakan program
+
+
+*note penting database
+- jika menggunakan laragon mysql maka file di taruh di (C:\laragon\www\alatkesehatan)
+- jika menggunakan xampp mysql maka file di taruh di (C:\xampp\htdocs\alatkesehatan)
